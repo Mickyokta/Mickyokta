@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my Github Profile.
+
+- 😄 About Me: My name is Micky Okta, born in 2004. Despite my young age, I am a Fullstack Developer. I got all of my knowledge from a renowned coding bootcamp in Indonesia, Hacktiv8. Partook in their immersive Fullstack Javascript Class, passed with a score of 93.2 / 100, and obtained the Honor Awards.
+- ⚡ Skills: Javascript, HTML, CSS, Typescript, Node Js.
+- ⚡ Front End: jQuery, Vue Js. React Js, React Native.
+- ⚡ Back End: Database SQL(PostgreSQL), Database NoSQL(MongoDB), ORM(Sequelize), Express Js, Testing Unit (Jest and Supertest)
+- ⚡ Extras: Redis, GraphQL, Socket.io, REST API, CSS Templates (Tailwind, DaisyUI, Bootstrap), Microservices.
+
 <!--
 **Mickyokta/Mickyokta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
