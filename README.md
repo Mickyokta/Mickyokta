@@ -6,7 +6,7 @@
 - 🎓 Studies for Fullstack Developer at [Hacktiv8 Indonesia](https://hacktiv8.com)
 - 🏡'Lives in **Jakarta, Indonesia**
 - 😄 Interests: ![image](https://icons8.com/icon/LPnVhrYwzBAe/chessboard) https://icons8.com/icon/TDspeh6Ouclt/xbox-controller https://icons8.com/icon/FUevjasS2ICh/drawing
-- 🔭 Currently looking for job
+- 🔭 Currently looking for job opportunities
 <br>
 
 ## Connect with me ☕ :
