@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://icons8.com/icon/rY6agKizO9eb/vue-js"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://user-images.githubusercontent.com/108231025/214224807-57f8c31e-ba7e-40f3-9a91-80f209dadc43.png"/>
 
 <img src="https://icons8.com/icon/54087/nodejs"/> <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript"/> <img src="https://icons8.com/icon/SDVmtZ6VBGXt/express-js"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
 
