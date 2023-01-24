@@ -3,9 +3,9 @@
 ## About Me :
 
 - 🏢 I am Micky Okta, born in 2004. Despite my young age, I am a Fullstack Developer. I got all of my knowledge from a renowned coding bootcamp in Indonesia, Hacktiv8. Partook in their immersive Fullstack Javascript Class, passed with a score of 93.2 / 100, and obtained the Honor Awards.
-- 🎓 Studies for Fullstack Developer at [Hacktiv8 Indonesia](https://www.londonmet.ac.uk/)
+- 🎓 Studies for Fullstack Developer at [Hacktiv8 Indonesia](https://hacktiv8.com)
 - 🏡'Lives in **Jakarta, Indonesia**
-- 😄 Interests: https://icons8.com/icon/LPnVhrYwzBAe/chessboard https://icons8.com/icon/TDspeh6Ouclt/xbox-controller https://icons8.com/icon/FUevjasS2ICh/drawing
+- 😄 Interests: ![image](https://icons8.com/icon/LPnVhrYwzBAe/chessboard) https://icons8.com/icon/TDspeh6Ouclt/xbox-controller https://icons8.com/icon/FUevjasS2ICh/drawing
 - 🔭 Currently looking for job
 <br>
 
