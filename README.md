@@ -1,6 +1,3 @@
-<div align="center" width="50">
-    <img src="./assets/oh hi there.png" width="300"/>
-</div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Micky Okta</h1>
 
 ## About Me :
@@ -8,7 +5,7 @@
 - 🏢 I am Micky Okta, born in 2004. Despite my young age, I am a Fullstack Developer. I got all of my knowledge from a renowned coding bootcamp in Indonesia, Hacktiv8. Partook in their immersive Fullstack Javascript Class, passed with a score of 93.2 / 100, and obtained the Honor Awards.
 - 🎓 Studies for Fullstack Developer at [Hacktiv8 Indonesia](https://www.londonmet.ac.uk/)
 - 🏡'Lives in **Jakarta, Indonesia**
-- 😄 Interests: (https://icons8.com/icon/LPnVhrYwzBAe/chessboard) (https://icons8.com/icon/TDspeh6Ouclt/xbox-controller) (https://icons8.com/icon/FUevjasS2ICh/drawing)
+- 😄 Interests: https://icons8.com/icon/LPnVhrYwzBAe/chessboard https://icons8.com/icon/TDspeh6Ouclt/xbox-controller https://icons8.com/icon/FUevjasS2ICh/drawing
 - 🔭 Currently looking for job
 <br>
 
