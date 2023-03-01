@@ -7,14 +7,13 @@
 - 🏡'Lives in **Jakarta, Indonesia**
 - 😄 Interests: <br>
 ![image](https://user-images.githubusercontent.com/108231025/214236554-37e6cc0c-3998-454e-833a-e208e9b69108.png) ![image](https://user-images.githubusercontent.com/108231025/214236618-744a6d8e-b184-4cab-9485-0d0e207f2a29.png) ![image](https://user-images.githubusercontent.com/108231025/214236726-f67fe165-930c-4f5c-9b2f-91aa46a77cd4.png)
-- 🔭 Currently looking for job opportunities
+- 🔭 Currently working at Feedloop.io
 <br>
 
 ## Connect with me ☕ :
 
 <br>
 
-[![@micky_okta](https://img.icons8.com/fluency/48/000000/instagram-new.png "@micky_okta")](https://www.instagram.com/micky_okta/) 
 [![@micky-okta](https://img.icons8.com/fluency/48/000000/linkedin.png "@micky-okta")](https://www.linkedin.com/in/micky-okta/) 
 [![@087786662004](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@087786662004")](tel:087786662004) 
 [![@micky.okta36@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@micky.okta36@gmail.com")](micky.okta36@gmail.com)
