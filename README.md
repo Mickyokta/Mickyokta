@@ -20,7 +20,7 @@
 
 <br>
 
-## What I'm Good at 🧑‍💻 :
+## What I am Good at 🧑‍💻 :
 
 <br>
 
